@@ -1,0 +1,1 @@
+App factory's new model's first session.
